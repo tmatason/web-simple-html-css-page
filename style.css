@@ -1,11 +1,11 @@
 h1 {
-  font-family: Times;
-  font-size: 32px;
-  color: green;
+  font-family: Impact;
+  font-size: 24px;
+  color: #ff0000;
 }
 
 p {
-  font-family: Arial;
-  font-size: 16px;
-  color: darkgreen;
+  font-family: Verdana;
+  font-size: 14px;
+  color: #333;
 }
